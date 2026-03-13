@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "DAD",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TEST345ipoop.aternos.me",
-    "port": 30675
-    "version": ""
+    "ip": "7L_SMP_is_real.aternos.me",
+    "port": 62213
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a SEXY boi",
+        "i like to Fuck girls!",
+        "I like to play hamburber!"
       ]
     },
     "chat-log": true,
